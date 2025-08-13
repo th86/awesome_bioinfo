@@ -70,4 +70,16 @@
 
 [cBioPortal](https://www.cbioportal.org/)
 
+[PGS Catalog](https://www.pgscatalog.org/) 
+
+[Human Brain Cell Atlas](https://cellxgene.cziscience.com/collections/283d65eb-dd53-496d-adb7-7570c7caa443)
+
+[Spatial DB](http://www.spatialomics.org/SpatialDB/)
+
 [NIST Statistics Methods](https://www.itl.nist.gov/div898/handbook/)
+
+[Cellxgene Census Models](https://cellxgene.cziscience.com/census-models)
+
+[Evo2](https://github.com/arcinstitute/evo2)
+
+[Foundation Models](https://github.com/OmicsML/awesome-foundation-model-single-cell-papers)
