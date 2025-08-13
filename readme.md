@@ -82,4 +82,11 @@
 
 [Evo2](https://github.com/arcinstitute/evo2)
 
+[ESM](https://github.com/facebookresearch/esm)
+
 [Foundation Models](https://github.com/OmicsML/awesome-foundation-model-single-cell-papers)
+
+[UniRef50](https://www.uniprot.org/uniref)
+
+[Observed Antibody Space](https://opig.stats.ox.ac.uk/webapps/oas/)
+
