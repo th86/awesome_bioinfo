@@ -90,3 +90,4 @@
 
 [Observed Antibody Space](https://opig.stats.ox.ac.uk/webapps/oas/)
 
+[Biomolecular Instruction Dataset](https://huggingface.co/datasets/zjunlp/Mol-Instructions)
